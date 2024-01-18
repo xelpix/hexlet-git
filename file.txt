@@ -1,3 +1,6 @@
 second local commit
+<<<<<<< HEAD
 some fixes from laptop!
 and from wsl!
+=======
+>>>>>>> parent of a536d81 (commit from laptop)
